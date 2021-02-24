@@ -1,0 +1,1 @@
+To install, copy this folder to C:\ProgramData\Ableton\Live 11\Resources\MIDI Remote Scripts\Selected_Track_Control
