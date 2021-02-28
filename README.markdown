@@ -4,7 +4,7 @@ NanoKontrol Mod Selected Track Control for Ableton Live
 Current version is 1.0 – released Feb 28, 2021.  
 Compatible with Live 11 (does not work with previous versions)
 
-![alt text](https://github.com/gratzel/Selected_Track_Control/blob/main/nanokontrol%20picture.jpg?raw=true)
+![alt text](https://github.com/gratzel/NanoKontrol_SelectedTrack/blob/main/nanokontrol%20picture.jpg?raw=true)
 
 This project is a derivative of [Selected Track Control](http://stc.wiffbi.com/) that provide functionality I found more useful than the original, specifically to optimize for use in Session View (I rarely use Clip View).  It also works in Live 11, which required porting the original to Python 3.
 
